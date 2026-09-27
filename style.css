@@ -1,0 +1,10 @@
+.row {
+  display: flex;
+  gap: 1em;
+  flex-direction: row;
+}
+
+hr {
+  border: none;
+  border-top: 2px solid black;
+}
